@@ -1,5 +1,7 @@
 # This is an overlay that spins up stable-diffusion-webui for integration testing
 # This is not designed to be used in production
+# 这是一个覆盖层，用于旋转stable-diffusion-webui进行集成测试
+# 这不是设计用于生产的
 services:
   stable-diffusion-webui:
     # Not built for ARM64
