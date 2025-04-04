@@ -15,7 +15,7 @@ Open WebUI 👋
 
 # 2. 简介
 
-**Open WebUI 是一个[可扩展](https://docs.openwebui.com/features/plugin/)、功能丰富且用户友好的自托管 AI 平台，设计为完全离线运行。** 它支持多种 LLM 运行器，如 **Ollama** 和 **兼容 OpenAI 的 API**，并内置 **推理引擎** 用于 RAG，使其成为一个 **强大的 AI 部署解决方案**。
+**Open WebUI 是一个[可扩展](https://docs.openwebui.com/features/plugin/)、功能丰富且用户友好的自托管 AI 平台，设计为完全离线运行。** 它支持多种 LLM 运行器，如 **llama** 和 **兼容 OpenAI 的 API**，并内置 **推理引擎** 用于 RAG，使其成为一个 **强大的 AI 部署解决方案**。
 
 ![Open WebUI 演示](./demo.gif)
 
